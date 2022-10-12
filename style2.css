@@ -90,7 +90,7 @@ body {
  } */
 
  .remove {
-  background: url('/DELETE.png');
+  background: url('DELETE.png');
   background-size: 99%;
   border: none;
   cursor:pointer;
@@ -106,7 +106,7 @@ body {
  }
 
  .edit {
-  background: url('/EDIT.png');
+  background: url('EDIT.png');
   background-size: 100%;
   border: none;
   cursor:pointer;
