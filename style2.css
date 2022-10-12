@@ -1,7 +1,9 @@
 li {
   display: flex;
 }
-
+html {
+  min-width: 1650px;
+}
 body {
    background-color: #ffd78a;
    font-family: sans-serif;
@@ -168,3 +170,8 @@ body {
   min-width: 388px;
   border: 2px solid white;
  }
+ /* @media only screen and (max-width: 1630px){
+  body {
+    transform: scale(0.1);
+}
+ } */
